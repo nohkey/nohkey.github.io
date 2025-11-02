@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌟 안녕하세요, <사용자이름>의 개인 페이지입니다!
 
-<!--
-**S-Noh/S-Noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 자기소개
+저는 1학년 <학과>에 재학 중인 <사용자이름>입니다.
+개발에 대한 열정을 가지고 있으며, 특히 **웹 개발**에 관심이 많습니다.
 
-Here are some ideas to get you started:
+### 🛠️ 관심 분야
+* HTML / CSS / JavaScript
+* Python 프로그래밍
+* 자료구조 및 알고리즘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 연락처
+[제 GitHub 방문하기](https://github.com/<사용자이름>)
+이메일: example@school.ac.kr
